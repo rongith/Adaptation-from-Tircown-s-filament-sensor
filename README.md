@@ -8,13 +8,13 @@ Configurations explainations:
 - 1C: 1 tube fitting
 - 2C: 2 tube fitting
 
-Configurations highlighted:
+Highlighted configurations:
 - M1-1C configuration is the closest to the original.
 - M2-2C is the one I use.
 
 Why?
 I wanted suppot of PTFE fitting on both side. Then I designed for 2 sides (2C configuration).
-I also made adjustement for:
+I also made adjustements for:
 
 - Sensor enclosing
 - Overhangs
